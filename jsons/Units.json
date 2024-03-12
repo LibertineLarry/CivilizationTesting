@@ -1,17 +1,15 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Citizen Soldier",
+		"unitType": "Scout",
+		"uniqueTo": "Aeturna",
+		"replaces:" "Scout",
+		"movement": 3,
+		"strength": 6,
+		"cost": 35,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
 	}
 ]
