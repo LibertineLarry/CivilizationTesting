@@ -3,7 +3,7 @@
 		"name": "Citizen Soldier",
 		"unitType": "Scout",
 		"uniqueTo": "Aeturna",
-		"replaces:" "Scout",
+		"replaces": "Scout",
 		"movement": 3,
 		"strength": 6,
 		"cost": 35,
