@@ -27,7 +27,7 @@
 		"afterPeace": "Gratefully, you have come to see that reason will triumph over barbarism.",
 		"tradeRequest": "We hope this trade would benefit you, what do you think?",
 
-		"outerColor": [16,16,16],
+		"outerColor": [200,0,130],
 		"innerColor": [255,0,200],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
