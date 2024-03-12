@@ -27,8 +27,8 @@
 		"afterPeace": "Gratefully, you have come to see that reason will triumph over barbarism.",
 		"tradeRequest": "We hope this trade would benefit you, what do you think?",
 
-		"outerColor": [200,0,130],
-		"innerColor": [255,0,200],
+		"outerColor": [255,130,0],
+		"innerColor": [0,255,255],
 		"uniqueName": "Order From Chaos",
 		"uniques": [
                     "[+50]% XP gained from combat <for [Military] units>"
